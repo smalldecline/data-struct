@@ -1,0 +1,12 @@
+{
+  "dependencies": {},
+  "scripts": {
+    "start": "tsc && node build"
+  },
+  "name": "data-struct",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/smalldecline/data-struct.git",
+  "author": "smalldecline <3218125624@qq.com>",
+  "license": "MIT"
+}
